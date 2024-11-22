@@ -1,2 +1,2 @@
 # My_first_GIT
-Testing with my first Git Repository.
+Testing the update and rollback with my first Git Repository.
